@@ -522,7 +522,7 @@
   /* Desktop Parallax - 1300px */
   @media only screen and (min-width: 81.25rem) {
     #hero-1856 .cs-background {
-      background: url("/Users/CorneliusUniversity/Downloads/Untitled design (2).png");
+      background: url("A3/Untitled design (2).png");
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
